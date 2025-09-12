@@ -154,6 +154,7 @@ JARVIS or Ultron?**, arXiv 2025 [[paper]](https://arxiv.org/abs/2505.10924)
 *   **BEARCUBS: A benchmark for computer-using web agents**, arXiv 2025 [[paper]](https://arxiv.org/abs/2503.07919)
 *   **Online-Mind2Web:An Illusion of Progress? Assessing the Current State of Web Agents**, arXiv 2025 [[paper]](https://arxiv.org/abs/2504.01382)
 *   **BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents**, arXiv 2025 [[paper]](https://arxiv.org/abs/2504.12516)
+*   **Mind2Web 2: Evaluating Agentic Search with Agent-as-a-Judge**, arXiv 2025 [[paper]](https://arxiv.org/abs/2506.21506)
 
 ### :computer: Software Engineering Agents (§3.2)
 *   **HumanEval: Evaluating Large Language Models Trained on Code**, arXiv 2021 [[paper]](https://arxiv.org/abs/2107.03374)
