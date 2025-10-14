@@ -185,6 +185,7 @@ JARVIS or Ultron?**, arXiv 2025 [[paper]](https://arxiv.org/abs/2505.10924)
 *   **CORE-Bench: Fostering the Credibility of Published Research through a Computational Reproducibility Agent Benchmark**, arXiv 2024 [[paper]](https://arxiv.org/abs/2409.11363)
 *   **ScienceAgentBench: Toward Rigorous Assessment of Language Agents for Data-Driven Scientific Discovery**, arXiv 2024 [[paper]](https://arxiv.org/abs/2410.05080)
 *   **AAAR-1.0: Assessing AI's Potential to Assist Research**, arXiv 2024 [[paper]](https://arxiv.org/abs/2410.22394)
+*   **GenoTEX: An LLM Agent Benchmark for Automated Gene Expression Data Analysis**, MLCB 2025 [[paper]](https://arxiv.org/abs/2406.15341)
 *   **MLGym-Bench: A New Framework and Benchmark for Advancing AI Research Agents**, arXiv 2025 [[paper]](https://arxiv.org/abs/2502.14499)
 *   **PaperBench: Evaluating AI's Ability to Replicate AI Research**, arXiv 2025 [[paper]](https://arxiv.org/abs/2504.01848)
 
