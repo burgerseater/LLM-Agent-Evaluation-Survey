@@ -211,6 +211,7 @@ JARVIS or Ultron?**, arXiv 2025 [[paper]](https://arxiv.org/abs/2505.10924)
 *   **TheAgentCompany: Benchmarking LLM Agents on Consequential Real World Tasks**, arXiv 2024 [[paper]](https://arxiv.org/abs/2412.14161)
 *   **AgentBoard: An Analytical Evaluation Board of Multi-turn LLM Agents**, NeurIPS 2024 [[paper]](https://arxiv.org/abs/2401.13178)
 *   **HAL: Holistic Agent Leaderboard**, HAL leaderboard 2025 [[paper]](https://hal.cs.princeton.edu/)
+*   **PerspectiveGap: A Benchmark for Multi-Agent Orchestration Prompting**, arXiv 2026 [[paper]](https://arxiv.org/abs/2606.08878)
 
 ## :building_construction: Frameworks for Agent Evaluation (§5)
 *   **Databricks Mosaic AI Agent Evaluation**:[[link]](https://docs.databricks.com/aws/en/generative-ai/agent-evaluation)
