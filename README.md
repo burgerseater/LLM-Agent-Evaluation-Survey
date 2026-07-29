@@ -155,6 +155,7 @@ JARVIS or Ultron?**, arXiv 2025 [[paper]](https://arxiv.org/abs/2505.10924)
 *   **Online-Mind2Web:An Illusion of Progress? Assessing the Current State of Web Agents**, arXiv 2025 [[paper]](https://arxiv.org/abs/2504.01382)
 *   **BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents**, arXiv 2025 [[paper]](https://arxiv.org/abs/2504.12516)
 *   **Mind2Web 2: Evaluating Agentic Search with Agent-as-a-Judge**, arXiv 2025 [[paper]](https://arxiv.org/abs/2506.21506)
+*   **ClawBench: Can AI Agents Complete Everyday Online Tasks?**, arXiv 2026 [[paper]](https://arxiv.org/abs/2604.08523) [[project]](https://claw-bench.com/) [[code]](https://github.com/reacher-z/ClawBench)
 
 ### :computer: Software Engineering Agents (§3.2)
 *   **HumanEval: Evaluating Large Language Models Trained on Code**, arXiv 2021 [[paper]](https://arxiv.org/abs/2107.03374)
